@@ -1,1 +1,3 @@
-hi\nbye\nOMG
+hi
+bye
+WOW
