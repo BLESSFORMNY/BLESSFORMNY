@@ -1,3 +1,1 @@
-hi
-bye
-OMG
+hi\nbye\nOMG
