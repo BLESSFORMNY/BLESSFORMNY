@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessformny&label=Profile%20views&color=0e75b6&style=flat" alt="blessformny" /> </p>
 
-- 📫 My mail **yamakko12345@gmail.com**
+- 📫 My mail: **yamakko12345@gmail.com**
 
-- ⚡ Where I am from **I am Korean!**
+- ⚡ Where I am from: **I am Korean!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
