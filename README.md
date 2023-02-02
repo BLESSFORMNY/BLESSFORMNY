@@ -1,7 +1,7 @@
 <h1 align="center">BLESSFORMNY</h1>
 <h3 align="center">Human who loves computer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/110040506/216333318-a1095b46-7901-4fcd-ac13-a1bd8812be53.pn)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/110040506/216333318-a1095b46-7901-4fcd-ac13-a1bd8812be53.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessformny&label=Profile%20views&color=0e75b6&style=flat" alt="blessformny" /> </p>
 
