@@ -7,7 +7,7 @@
 
 - ⚡ Where I am from: **I am Korean!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Accounts:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.com/users/BLESS_FORMNY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/BLESS_FORMNY" height="30" width="40" /></a>
 </p>
