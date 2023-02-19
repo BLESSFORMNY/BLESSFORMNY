@@ -7,6 +7,8 @@
 
 - ⚡ Where I am from: **I am Korean!**
 
+- 🔞 My age: **I am 12(International Age)**
+
 <h3 align="left">My Accounts:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.com/users/BLESS_FORMNY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/BLESS_FORMNY" height="30" width="40" /></a>
