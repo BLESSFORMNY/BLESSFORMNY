@@ -7,7 +7,9 @@
 
 - ⚡ Where I am from: **I am Korean!**
 
-- 🔞 My age: **I am 12(International Age)**
+- 🔞 My age: **I am 12!(International Age)**
+
+- 🔠 My nickname: **MY nickname is BLESS_FORMNY!**
 
 <h3 align="left">My Accounts:</h3>
 <p align="left">
